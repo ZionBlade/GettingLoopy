@@ -12,11 +12,32 @@ public class Main {
         for(int l=0; l < 3; l++)
             System.out.println();
 
+        //task 2
+        for(int x=30; x>=0 ; x--)
+        {
+            System.out.println(x);
+        }
 
+        for(int l=0; l < 3; l++)
+            System.out.println();
 
+        //task 3
+        for(int x=0; x<=18 ; x+=3)
+        {
+            System.out.println(x);
+        }
 
+        for(int l=0; l < 3; l++)
+            System.out.println();
 
+        //task 4
+        for(int x=10; x>=0 ; x-=2)
+        {
+            System.out.println(x);
+        }
 
+        for(int l=0; l < 3; l++)
+            System.out.println();
 
 
         //task 5
