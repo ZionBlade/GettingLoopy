@@ -76,5 +76,34 @@ public class Main {
             }
             System.out.println();
         }
+
+        for(int l=0; l < 3; l++)
+            System.out.println();
+
+        //extra credit
+        for (int y = 1; y <= 2; y++) //row
+        {
+            for (int x = 1; x <= 7; x++) //COLUMN
+            {
+                System.out.print(s);
+            }
+            System.out.println();
+        }
+        for (int y=1; y<=5; y++)
+        {
+            for(int x=1; x<=2; x++)
+            {
+                System.out.print(s);
+            }
+            System.out.println();
+        }
+        for (int y = 1; y <= 2; y++) //row
+        {
+            for (int x = 1; x <= 7; x++) //COLUMN
+            {
+                System.out.print(s);
+            }
+            System.out.println();
+        }
     }
 }
